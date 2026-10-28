@@ -1,0 +1,10 @@
+# Virtual Environment
+solvity_env/
+venv/
+__pycache__/
+
+# Mac System Files
+.DS_Store
+
+# Environment variables (API keys)
+.env
