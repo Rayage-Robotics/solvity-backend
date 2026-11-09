@@ -1,0 +1,5 @@
+solvity_env/
+venv/
+solvity_chroma_db/
+.DS_Store
+.env
